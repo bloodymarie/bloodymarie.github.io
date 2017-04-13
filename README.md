@@ -60,14 +60,14 @@ If you'd like to add your own custom styles:
 
 If you'd like to change the theme's HTML layout:
 
-1. [Copy the original template](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
+1. [Copy the original template](https://lilaluca.github.io//blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
 2. Create a file called `/_layouts/default.html` in your site
 3. Paste the default layout content copied in the first step
 4. Customize the layout as you'd like
 
 ### Sass variables
 
-If you'd like to change the theme's [Sass variables](https://github.com/pages-themes/cayman/blob/master/_sass/variables.scss), set new values before the `@import` line in your stylesheet:
+If you'd like to change the theme's [Sass variables](https://lilaluca.github.io//blob/master/_sass/variables.scss), set new values before the `@import` line in your stylesheet:
 
 ```scss
 $section-headings-color: #0086b3;
@@ -77,7 +77,7 @@ $section-headings-color: #0086b3;
 
 ## Roadmap
 
-See the [open issues](https://github.com/pages-themes/cayman/issues) for a list of proposed features (and known issues).
+See the [open issues](https://lilaluca.github.io//issues) for a list of proposed features (and known issues).
 
 ## Project philosophy
 
@@ -91,7 +91,7 @@ Interested in contributing to Cayman? We'd love your help. Cayman is an open sou
 
 If you'd like to preview the theme locally (for example, in the process of proposing a change):
 
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/cayman`)
+1. Clone down the theme's repository (`git clone https://lilaluca.github.io/`)
 2. `cd` into the theme's directory
 3. Run `script/bootstrap` to install the necessary dependencies
 4. Run `bundle exec jekyll serve` to start the preview server

@@ -1,5 +1,4 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: 
+title: Blog about menstrual cycle tracking
+description: It's about your menstrual health, baby!
+show_downloads: false
+theme: jekyll-theme-cayman

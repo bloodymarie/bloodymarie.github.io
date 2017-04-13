@@ -1,123 +1,26 @@
 ---
 layout: default
+title: Blog about menstrual cycle tracking  
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## [](#header-2)This is all about tracking menstrual cycles, fertilities and sexualities.
 
-[Link to another page](another-page).
+There are so many people who track their menstrual cycles, their fertilities and their sexualities with excitement. Others do it because their doctors told them to do so. Others do it for other reasons.
 
-There should be whitespace between paragraphs.
+**There is no right or wrong when it comes to tracking your menstrual cycles. As long as it feels good to you.**
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## [](#header-2)However there is somehow something missing...
 
-# [](#header-1)Header 1
+A customizbale period tracking app, that is open source and somehow also easy to use.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## [](#header-2)So here's the plan
 
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+For the next four weeks I will be in Lima as a part of [HackerParadise](http://www.hackerparadise.org/), and I will work on an open source period tracking app. The experiences of menstrual cycles may vary due to age, emotional and physical well-being, but also political and social circumstances. This is why I will collect ideas of users and try to implement requested features that take into account a broader approach towards the experience of menstrual cycles. Adding a comment option for each day will be one of the features. I will also focus on writing a beginner friendly documentation so that users are invited to customize the app and use it as a personal coding project.
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+This is also meant to be a coding project for newbies
+
+who would want to dive into the world of code-it-yourself!
 ```
 
-```
-The final element.
-```
+## [](#header-2)Cheers & Salud, your bloody Mary!
