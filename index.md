@@ -22,8 +22,14 @@ This is also meant to be a coding project for newbies
 
 who would want to dive into the world of code-it-yourself!
 ```
-## [](#header-2)Look what I found
+## [](#header-2)Look what I found...
 
-[This is me](https://www.youtube.com/watch?v=RpFyGcyggIQ), talking about my favourite topic "Digital menstrual cycle tracking" in German (**sorry**) at c-base in Berlin, April 5th 2016.
+[Das bin ich ](https://www.youtube.com/watch?v=RpFyGcyggIQ), über mein Lieblingsthema referierend "Digitales Zyklustracking" in der c-base in Berlin, 5. April 2016.
+
+Einmal habe ich mit einer Journalistin über Menstruation telefoniert und sie hat sich [dazu Notizen gemacht](http://www.spiegel.de/netzwelt/apps/menstruations-apps-clue-cycles-co-in-der-regel-nuetzlich-a-1093652.html).
+
+You can ping or follow me on [Twitter](https://twitter.com/lila_luca).
+
+If you are into tech and geeky stuff, come and say hello to the [Heart of Code](http://heartofcode.org)!
 
 ## [](#header-2)Cheers & Salud, your bloody Mary!
