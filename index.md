@@ -22,5 +22,8 @@ This is also meant to be a coding project for newbies
 
 who would want to dive into the world of code-it-yourself!
 ```
+## [](#header-2)Look what I found
+
+[This is me](https://www.youtube.com/watch?v=RpFyGcyggIQ), talking about my favourite topic "Digital menstrual cycle tracking" in German (**sorry**) at c-base in Berlin, April 5th 2016.
 
 ## [](#header-2)Cheers & Salud, your bloody Mary!
