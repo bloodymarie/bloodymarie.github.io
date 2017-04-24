@@ -1,4 +1,19 @@
-title: Blog about menstrual cycle tracking
-description: It's about your menstrual health, baby!
-show_downloads: false
-theme: jekyll-theme-cayman
+title:        Blog about menstrual cycle tracking
+description:  It's about your menstrual health, baby!
+theme:        jekyll-theme-cayman
+
+tagline:      It's about your menstrual health, baby!
+baseurl:      ""
+# paginate:     1
+
+# About/contact
+author:
+  name:       bloody mary
+  url:        https://github.com/lilaluca
+
+# Gems
+gems:
+              - jekyll-paginate
+
+#Others
+markdown:     kramdown
