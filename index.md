@@ -54,4 +54,4 @@ Let's get lost together | Code Grrrl. Bleed Grrrl.
 
 <3
 
-## [](#header-2)Cheers & Salud, your bloody Mary!
+## [](#header-2)Cheers & Salud, yours sincerely Bloody Marie!

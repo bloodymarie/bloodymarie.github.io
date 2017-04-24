@@ -1,5 +1,5 @@
-title:        Blog about menstrual cycle tracking
-description:  It's about your menstrual health, baby!
+title:        Bloody Marie
+description:  Blog about menstrual cycle tracking
 theme:        jekyll-theme-cayman
 
 tagline:      It's about your menstrual health, baby!
@@ -8,7 +8,7 @@ baseurl:      ""
 
 # About/contact
 author:
-  name:       bloody mary
+  name:       lilaluca
   url:        https://github.com/lilaluca
 
 # Gems
