@@ -215,7 +215,7 @@ a:hover { text-decoration: underline; }
   .pbtn + .pbtn { margin-top: 1rem; margin-left: 0; } }
 
 
-.site-footer { text-align: center; margin-top: 2rem; border-top: solid 1px #eff0f1; }
+.site-footer { padding-top: 1rem;  text-align: center; margin-top: 2rem; border-top: solid 1px #eff0f1; }
 @media screen and (min-width: 64em) { .site-footer { font-size: 1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .site-footer { font-size: 1rem; } }
 @media screen and (max-width: 42em) { .site-footer { font-size: 0.9rem; } }
