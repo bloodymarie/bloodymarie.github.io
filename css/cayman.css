@@ -204,9 +204,9 @@ a:hover { text-decoration: underline; }
 .page-buttons { color: #fff; background-color: #fff; }
 @media screen and (min-width: 42em) { .page-buttons { padding: ; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .page-buttons { padding: 3rem 4rem; } }
-@media screen and (max-width: 42em) { .page-buttons { padding: 2rem 1rem; } }
+@media screen and (max-width: 42em) { .page-buttons { padding: 0rem 0rem; } }
 
-.pbtn { display: inline-block;  color: rgba(228, 38, 38, 0.7); border-color:  rgba(228, 38, 38, 0.7); border-style: solid; border-width: 1px; border-radius: 0.3rem; transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
+.pbtn { display: inline-block;  padding-bottom: 1rem; color: rgba(228, 38, 38, 0.7); border-color:  rgba(228, 38, 38, 0.7); border-style: solid; border-width: 1px; border-radius: 0.3rem; transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
 .pbtn:hover { color: rgba(228, 38, 0.8); text-decoration: none; background-color: rgba(255, 255, 255, 0.2); border-color: rgba(255, 255, 255, 0.3); }
 .pbtn + .pbtn { margin-left: 1rem; }
 @media screen and (min-width: 64em) { .pbtn { padding: 0.75rem 1rem; } }
@@ -215,7 +215,7 @@ a:hover { text-decoration: underline; }
   .pbtn + .pbtn { margin-top: 1rem; margin-left: 0; } }
 
 
-.site-footer { padding-top: 2rem;  text-align: center; margin-top: 2rem; border-top: solid 1px #eff0f1; }
+.site-footer { text-align: center; margin-top: 2rem; border-top: solid 1px #eff0f1; }
 @media screen and (min-width: 64em) { .site-footer { font-size: 1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .site-footer { font-size: 1rem; } }
 @media screen and (max-width: 42em) { .site-footer { font-size: 0.9rem; } }
