@@ -4,9 +4,9 @@ layout: page
 
 ## There will be blood.
 
-<img src="/favicon.png" width="3%"/>
-<img src="/favicon.png" width="3%"/>
-<img src="/favicon.png" width="3%"/>
+<img src="/favicon.ico" width="3%"/>
+<img src="/favicon.ico" width="3%"/>
+<img src="/favicon.ico" width="3%"/>
 
 Aren't we all celebrating these moments of joy, in the shower, unplugging the menstrual cup and splattering the floor?! Such joy!
 
