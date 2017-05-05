@@ -22,7 +22,7 @@ Suhrkamp, S. 316–335.
 *   **Degele, Nina** (2008): Normale Exklusivitäten. Schönheitshandeln, Schmerznormalisieren, Körper inszenieren. In: Paula-Irene Villa (Hg.): Schön normal. Manipulationen am Körper als Technologien des Selbst.
 Bielefeld: Transcript, S. 67–84.
 *   **Duden, Barbara** (1987): Geschichte unter der Haut. Ein Eisenacher Arzt und seine Patientinnen um 1730. Stuttgart: Klett-Cotta.
-*   **Foucault, Michel** (1993): Die Geburt der Klinik. Eine Archäologie des ärztlichen Blicks. Ungekürzte Ausg., 8. - 9. Tsd. Frankfurt am Main: Fischer-Taschenbuch-Verl. (7400 : Wissenschaft).
+*   **Foucault, Michel** (1993): The Birth of the Clinic: An Archaeology of Medical Perception. Ungekürzte Ausg., 8. - 9. Tsd. Frankfurt am Main: Fischer-Taschenbuch-Verl. (7400 : Wissenschaft).
 *   **Lupton, Deborah** (2012): Medicine as culture. Illness, disease and the body. 3rd ed. London, Thousand Oaks: Sage.
 *   **Lupton, Deborah** (2014a): The commodification of patient opinion: the digital patient experience economy in the age of big data. In: Sociology of Health & Illness 36 (6), S. 856–869.
 *   **Wetzel, Janice Wood** (1991): Universal Mental Health Classification Systems: Reclaiming Women's Experience. In: Affilia 6 (3).
@@ -57,6 +57,3 @@ devices-and-bodies-interact/).
 *   **Moglia, Michelle L.; Nguyen, Henry V.; Chyjek, Kathy; Chen, Katherine T.; Castano, Paula M.** (2016): Evaluation of Smartphone Menstrual Cycle Tracking Applications Using an Adapted APPLICATIONS Scoring System. In: Obstetrics & Gynecology 127 (6), S. 1153–1160.
 *   **Paasonen, Susanna** (2011): Revisiting cyberfeminism. In: Communications 36 (3). DOI: 10.1515/comm.2011.017.
 *   **Williamson, Ben** (2015): Algorithmic skin: health-tracking technologies, personal analytics and the biopedagogies of digitized health and physical education. In: Sport, Education and Society 20 (1), S.133–151.
-
-
-[back to where it all begins](./)
