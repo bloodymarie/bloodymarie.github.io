@@ -37,7 +37,3 @@ The artist [Sarah Levy](https://www.sarahlevyart.com/bloodytrump/) paints with m
 ##### Source: https://www.sarahlevyart.com/bloodytrump/
 
 I want to get to know all the cool fancy stuff related to menstruation! So if you have a project or know of any other, [let me know](mailto:marie@heartofcode.org?subject=I have/know of a cool period project...).
-
-<3
-
-[back to where it all begins](./)

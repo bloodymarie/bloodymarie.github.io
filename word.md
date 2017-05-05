@@ -13,5 +13,3 @@ Here is an overview of aaaaall the blogposts so far
     {% endfor %}
   </ul>
 </div>
-
-[back to where it all begins](./)

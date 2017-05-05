@@ -15,7 +15,3 @@ So so grateful to my interview partners.
 Very grateful to:
 
 Dr. Martha Zapata, MA. Nina Lawrenz and Prof. Dr. Elvira Scheich.
-
-<3
-
-[back to where it all begins](./)

@@ -23,5 +23,3 @@ If you have no previous coding knowledge and would want to give it a try, these 
 *   [Rails Girls Communities all over the world offering one day workshops of teaching Ruby on Rails for people who identify as female](http://railsgirls.com)
 *   [ClojureBridge aims to increase diversity offering free, beginner-friendly Clojure programming workshops for underrepresented groups in tech](http://www.clojurebridge.org/)
 *   [OpenTechSchool is a distributed community initiative organising welcoming and inclusive code learning happenings](http://www.opentechschool.org/)
-
-[back to where it all begins](./)
