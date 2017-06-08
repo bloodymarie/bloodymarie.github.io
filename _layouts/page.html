@@ -2,26 +2,27 @@
 <html lang="en-us">
 
   {% include head.html %}
-  <div class="container">
 
-    <body>
-      {% include page-header.html %}
+  <body>
+    {% include page-header.html %}
 
-      <section class="main-content">
+    <section class="main-content">
 
-        <div class="row">
-          {{ content }}
-        </div>
+      {{ content }}
 
-        <section class="arrow-up">
-          <a href="#" class="aubtn">^</a>
-        </section>
-
-        <a href="./"><< back to where it all begins</a>
-
-        {% include page-footer.html %}
-
+      <section class="arrow-up">
+        <a href="#" class="aubtn">
+          ↑
+        </a>
       </section>
-    </body>
-  </div>
+
+      <div class="container">
+        <a href="./">← back to where it all begins</a>
+      </div>
+
+      {% include page-footer.html %}
+
+    </section>
+
+  </body>
 </html>
