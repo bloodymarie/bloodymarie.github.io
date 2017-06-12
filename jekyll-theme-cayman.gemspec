@@ -3,8 +3,8 @@
 Gem::Specification.new do |spec|
   spec.name       = "jekyll-theme-cayman"
   spec.version    = "0.1.0"
-  spec.authors    = ["bloody Mary"]
-  spec.email      = ["lilaluca@mailbox.org"]
+  spec.authors    = ["Bloody Marie"]
+  spec.email      = ["marie@heartofcode.org"]
 
   spec.summary    = "Blog about menstrual cycle tracking"
   spec.homepage   = "https://github.com/lilaluca"

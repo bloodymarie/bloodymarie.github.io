@@ -4,7 +4,7 @@ layout: page
 
 ## The sources of happiness for my research
 
-Over the time even me, myself and I, who doesn't read that much, collected a growing list of thought-provoking texts, entire books, testimonials that all somehow relate to menstrual cycle tracking. I categorized my bibliography in three main **clickable** blocks. If you have trouble finding access to a text of your interest, feel free to [ping me](mailto:marie@heartofcode.org). Let's be helpless together!
+Over the time even me, myself and I, who doesn't read that much, collected a growing list of thought-provoking texts, entire books, testimonials that all somehow relate to menstrual cycle tracking. I categorized my bibliography in three main **clickable** blocks. If you have trouble finding access to a text of your interest, feel free to [ping me](mailto:marie@heartofcode.org). Maybe I can help out and otherwise: let's be helpless together!
 
 * [Sociology of health, illness and medicine](#him)
 * [Gender Studies, menstruation, fertilities and sexualities](#gmf)
@@ -12,7 +12,7 @@ Over the time even me, myself and I, who doesn't read that much, collected a gro
 
 ## <a name="him"></a>Sociology of health, illness and medicine
 
-One of my heroines in this section clearly is Deborah Lupton and her great research about digital self-tracking. Check out her [blog](https://simplysociology.wordpress.com/) or follow her on [twitter](https://twitter.com/DALupton).
+One of my heroines in this section clearly is Deborah Lupton and her great research about digital self-tracking. Check out her [blog](https://simplysociology.wordpress.com/) and follow her on [twitter](https://twitter.com/DALupton).
 
 *   **Barker, Kristin K.** (2013): Electronic Support Groups, Patient-Consumers, and Medicalization: The Case of Contested Illness. In: Peter Conrad und Valerie Leiter (Hg.): The sociology of health & illness. Critical perspectives. 9th ed. New York, NY: Worth Publishers, S. 180–196.   
 *   **Beck-Gernsheim, Elisabeth** (1994): Gesundheit und Verantwortung im Zeitalter der Gentechnologie. In: Ulrich

@@ -4,7 +4,7 @@ layout: page
 
 ## For the love of Code
 
-So because I am on my way to become a verrry serious and probably a verry good & real software engineer, I am tempted to play around with code in order to create my own period tracking app. It puts you in a situation where you have to be clear about your expectations towards such an app. What needs to be in it, what would be nice to have? What is missing so far? And how are you going to take all these ideas and translate them into code? So many questions...
+So because I am on my way to become a verrry serious and probably a verrry good & real software engineer, I am tempted to play around with code in order to create my own period tracking app. It puts you in a situation where you have to be clear about your expectations towards such an app. What needs to be in it, what would be nice to have? What is missing so far? And how are you going to take all these ideas and translate them into code? So many questions...
 
 ## 99 problems & failing shouldn't be one
 
