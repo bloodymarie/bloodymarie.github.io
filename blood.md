@@ -36,4 +36,11 @@ The artist [Sarah Levy](https://www.sarahlevyart.com/bloodytrump/) paints with m
 ![](https://static1.squarespace.com/static/5870a0c203596e3fcc62cf48/5870a8f203596e3fcc62f6a0/587b018c197aeadc2b0a4e8a/1484456333601/bloody-trump.jpg?format=500w)
 ##### Source: https://www.sarahlevyart.com/bloodytrump/
 
+## Kiran Gandhi aka Madame Gandhi
+
+Badass music artist & adorable feminist Kiran Gandhi was running the London Marathon 2015 on her period. She chose not to wear any menstrual products like tampons or cups out of pure preference. Rrrun the shame away!
+
+![](https://i2.wp.com/rhythmicinteractions.files.wordpress.com/2015/05/img_0168.jpg?w=252&h=252&crop=1&ssl=1)
+##### Source: https://madamegandhi.blog/2015/04/26/sisterhood-blood-and-boobs-at-the-london-marathon-2015/
+
 I want to get to know all the cool fancy stuff related to menstruation! So if you have a project or know of any other, [let me know](mailto:marie@heartofcode.org?subject=I have/know of a cool period project...).
