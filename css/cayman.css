@@ -126,7 +126,7 @@
 
 * { box-sizing: border-box; }
 
-body { padding: 0; margin: 0; font-family: "Josefin Sans", sans-serif; font-size: 16px; line-height: 1.5; color: #606c71; }
+body { padding: 0; margin: 0; font-family: "Josefin Sans", sans-serif; font-size: 16px; line-height: 1.5; color: #171111; }
 
 a { color: #8B0000; text-decoration: none; }
 a:hover { text-decoration: underline; }
@@ -202,16 +202,16 @@ a:hover { text-decoration: underline; }
 .main-content hr { height: 2px; padding: 0; margin: 1rem 0; background-color: #eff0f1; border: 0; }
 
 .arrow-up { }
-@media screen and (min-width: 42em) { .arrow-up { padding: 1rem; } }
-@media screen and (min-width: 42em) and (max-width: 64em) { .arrow-up { padding: 1rem; } }
-@media screen and (max-width: 42em) { .arrow-up { padding: 0rem 0rem; } }
+@media screen and (min-width: 42em) { .arrow-up { padding: 0.5rem 0.5rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .arrow-up { padding: 0.5rem 0.5rem; } }
+@media screen and (max-width: 42em) { .arrow-up { padding: 1rem 0rem; } }
 
-.aubtn { display: inline-block;  padding-bottom: 1rem; color: rgba(228, 38, 38, 0.7); border-color:  rgba(228, 38, 38, 0.7); border-style: solid; border-width: 1px; border-radius: 0.3rem; transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
+.aubtn { display: inline-block; color: rgba(228, 38, 38, 0.7); font-size: 1.5rem; border-color:  rgba(228, 38, 38, 0.7); border-style: solid; border-width: 1px; border-radius: 0.3rem; transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
 .aubtn:hover { color: rgba(228, 38, 0.8); text-decoration: none; background-color: rgba(255, 255, 255, 0.2); border-color: rgba(255, 255, 255, 0.3); }
 .aubtn + .aubtn { margin-left: 1rem; }
-@media screen and (min-width: 64em) { .aubtn { padding: 0.75rem 1rem; font-weight: bold; } }
-@media screen and (min-width: 42em) and (max-width: 64em) { .aubtn { padding: 0.75rem; font-weight: bold; } }
-@media screen and (max-width: 42em) { .aubtn { display: inline; padding: 0.5rem; font-size: 1rem; font-weight: bold; }
+@media screen and (min-width: 64em) { .aubtn { padding: 0.5rem 0.7rem 0.3rem } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .aubtn { padding: 0.55rem; } }
+@media screen and (max-width: 42em) { .aubtn { display: inline; padding: 0.5rem; }
   .aubtn + .aubtn { margin-top: 1rem; margin-left: 1rem; } }
 
 .page-buttons { }

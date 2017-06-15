@@ -5,7 +5,7 @@ title: {{ site.name }}
 
 ## This is all about tracking menstrual cycles, fertilities and sexualities.
 
-Many people track their menstrual cycles, their fertilities and their sexualities with glee. Others do it because their gynaecologists & doctors told them to do so. Others just want to keep track of the length of their cycles or do it in order to track their fertilities. Others do it for other reasons. Others don't track their cycles at all. There is no right or wrong when it comes to tracking menstrual cycles. As long as it feels good to you.
+Many people track their menstrual cycles, their fertilities and their sexualities with glee. Others do it because their gynaecologists & doctors told them to do so. Others just want to keep track of the length of their cycles or do it in order to track their fertilities. Aaand others do it for other reasons. Many don't track their cycles at all. There is no right or wrong when it comes to tracking menstrual cycles. As long as it feels good to you.
 
 ## Boom
 
@@ -37,7 +37,7 @@ governing oneself and improving one’s life chances."
 
 ##### *Lupton 2014b: 12. Self-tracking Modes: Reflexive Self-Monitoring and Data Practices. Paper for the ‘Imminent Citizenships: Personhood and Identity Politics in the Informatic Age' workshop. University of Canberra, Canberra. News & Media Research Centre, Faculty of Arts & Design.*
 
-Isn't she amazing? She even once answered an email to send me an essay she wrote. She is fascinating. And she answers emails! What more could you wish from a clever professor? No idea. I am serious. Truly.
+Isn't she amazing? She even answered an email once to send me an essay she wrote. She is fascinating. And she answers her emails! What more could you wish for? No idea. I am serious. Truly.
 
 So now that we have a basic understanding of experiences of menstruation and of digitalized self-tracking, we put these two components together and: **tada**! Now you may have a feeling for what menstrual cycle tracking is. Next step: digitalized menstrual cycle tracking with mobile apps. You are almost there. I swear.
 
